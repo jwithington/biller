@@ -13,6 +13,9 @@ gem 'sass-rails', '~> 4.0.0'
 # For adding states
 gem 'state_machine'
 
+# For model versioning
+gem 'paper_trail'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
